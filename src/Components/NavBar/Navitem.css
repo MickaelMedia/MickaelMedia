@@ -1,0 +1,26 @@
+.nav__item{
+    display: flex;
+}
+
+.icon__button{
+    --button-size: calc(var(--nav-size)*0.5);
+    width: calc(var(--button-size)*3);
+    height: var(--button-size);
+    background-color: #595c61;
+    border-radius: 10%;
+    padding: 5px;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: filter 300ms;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+.nav__item>p{
+    color: white;
+}
+
+.icon__button:hover{
+    filter: brightness(1.2);
+}

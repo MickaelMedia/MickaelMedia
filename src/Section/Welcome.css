@@ -1,0 +1,11 @@
+.new{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.meh{
+    padding: 2vh;
+    color: var(--text-color);
+    text-align: center;
+}

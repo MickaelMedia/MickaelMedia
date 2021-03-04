@@ -1,0 +1,15 @@
+iframe{
+    padding: 20px 12.5%;
+    object-fit: cover;
+    width: 75vw;
+    height: 75vh;
+}
+
+.general{
+    background-color: var(--bg);
+}
+
+.general__iframe{
+    position: absolute;
+    top: 20vh;
+}
