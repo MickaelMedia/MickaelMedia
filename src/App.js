@@ -7,7 +7,7 @@ import Footer from "./Components/Footer/Footer";
 import Blog from "./Section/Blog/Blog";
 import BlogYear from "./Section/Blog/BlogYear";
 import Welcome from "./Section/Welcome";
-import About_Me from "./Section/About_Me";
+import AboutMe from "./Section/About_Me";
 import CodingProject from "./Section/Coding/Coding_Projects/CodingProject";
 import Review from "./Section/Biking/Reviews/Review";
 import Races from "./Section/Biking/Races/Races";
@@ -52,7 +52,7 @@ function App() {
         <Switch >
           <Route exact path="/"><Welcome /></Route>
           
-          <Route path="/About_Me"><About_Me /></Route>
+          <Route path="/About_Me"><AboutMe /></Route>
           
           <Route path="/BlogMonth"><Blog /></Route>
 
@@ -68,13 +68,13 @@ function App() {
 
           <Route path="/CodingProjects"><CodingProject /></Route>
 
-          <Route path="/NursingArticles"><iframe src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
+          <Route path="/NursingArticles"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
 
-          <Route path="/Nursing101"><iframe src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
+          <Route path="/Nursing101"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
 
-          <Route path="/NursingVulg"><iframe src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
+          <Route path="/NursingVulg"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
 
-          <Route path="/TravelCities"><iframe src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
+          <Route path="/TravelCities"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
 
           <Route path="/TravelTrips"><ToDo /></Route>
         </Switch>

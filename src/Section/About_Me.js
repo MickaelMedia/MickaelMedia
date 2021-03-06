@@ -1,6 +1,6 @@
 import React from 'react';
 
-function About_Me() {
+function AboutMe() {
     return (
         <div>
             <article>
@@ -13,10 +13,11 @@ function About_Me() {
             </article>
             <article>
                 <h2>Dev Notes</h2>
+                <p>2021-03-05: Just retouched the footer to make it look cleanr</p>
                 <p>2021-03-04: Going to start a DevNotes just to write down my changes. Might just be a copy paste from my github repo.</p>
             </article>
         </div>
     )
 }
 
-export default About_Me
+export default AboutMe

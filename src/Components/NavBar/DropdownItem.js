@@ -1,6 +1,5 @@
 import React from 'react';
 import "./DropdownItem.css";
-import NavItem from "./Navitem";
 
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 
