@@ -14,7 +14,7 @@ function Welcome() {
                 title="Welcome"
                 desc="This is my web portfolio for nursing ,coding and mountain biking"
                 backgroundImg={Opening}
-                summary="This website serves 3 purposes. Firstly, It allows me practice coding and setting up React.js . Secondly it allows me to make a visual Portfolio for people who are interested in hiring me. Lastly, It's my own personnal space to talk about the subjects mentionned in the header"
+                summary="This website serves 3 purposes. Firstly, It allows me practice coding and setting up React.js . Secondly it allows me to make a visual Portfolio for people who are interested in hiring me. Lastly, It's my own personnal space to talk about the subjects mentioned in the header"
                 />
                 <Item 
                 title="Nursing"
@@ -22,7 +22,7 @@ function Welcome() {
                 descLink="Click Here for more"
                 backgroundImg={Opening}
                 link="/Nursing101"
-                summary="If you are a potentiel Nursing employer, The Sections that might interest you more are Nursing and also my Blog. It`s a diary that includes How my months go. The nursing tab is more scientific vulgarisations of new approaches or concepts."
+                summary="If you are a potentiel Nursing employer, The Sections that might interest you more are Nursing and also my Blog. It's a diary that includes how my months go. The nursing tab is more scientific vulgarisations of new approaches or concepts."
                 pair="true"
                 />
                 <Item 
@@ -39,7 +39,7 @@ function Welcome() {
                 descLink="Click Here for more BRUH"
                 backgroundImg={Opening}
                 link="/BikeGeneral"
-                summary="I am not the best Mountain Biker around, But I have fun trying out stuff that people think is insane. I am lot more oriented on speed and composure, but don't worry, I can still whip to have that extra STEEEEEZE #neverenoughsteeze."
+                summary="I am not the best mountain biker around, But I have fun trying out stuff that people think is insane. I am lot more oriented on speed and composure, but don't worry, I can still whip to have that extra STEEEEEZE #neverenoughsteeze."
                 pair="true"
                 />
             </div>

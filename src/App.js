@@ -50,6 +50,8 @@ function App() {
         </Navbar>
 
         <Switch >
+          <Route exact path="/MickaelMedia/"><Welcome /></Route>
+
           <Route exact path="/"><Welcome /></Route>
           
           <Route path="/About_Me"><AboutMe /></Route>
