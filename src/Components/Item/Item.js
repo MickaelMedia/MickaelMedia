@@ -10,7 +10,7 @@ function Item({title,backgroundImg,desc,descLink,summary,pair,link}) {
         }}>
             <div className="item__container">
                 <div className="item__text">
-                    <p>{title}</p>
+                    <p className="item__title">{title}</p>
                     <div className="item__textDesc">
                     <p>{desc}</p>
                     </div>
