@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import Item from '../../../Components/Item/Item';
-import MTBOka from "./MTBOka";
+import MTBOka from "./Oka/MTBOka";
 import Card from "../../../Components/Card/Card";
-import Trail1 from "./Oka_Ressource/20200721_091449.jpg"
+import Trail1 from "./Oka/Oka_Ressource/20200721_091449.jpg"
 
 function ToDo() {
     return (

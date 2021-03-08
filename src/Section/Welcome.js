@@ -4,7 +4,7 @@ import Item from "../Components/Item/Item";
 import Opening from "../Ressource/Pic1.jpg";
 import Card from "../Components/Card/Card"
 import "./Welcome.css";
-import Trail1 from "./Travel/ToDo/Oka_Ressource/20200721_091449.jpg"
+import Trail1 from "./Travel/ToDo/Oka/Oka_Ressource/20200721_091449.jpg"
 
 function Welcome() {
     return (
