@@ -12,10 +12,9 @@ function General() {
             <div className="general__intro"></div>
             <article>
                 <h2>What is up</h2>
-                <br />
                 <p>This section is going to have all the mountain biking stuff Feel free to browse in the new section or the pinned articles</p>
-                <h2>New Content</h2>
             </article>
+            <h2 className="meh">What's New</h2>
             <div className="new">
                 <Card link="/BikeReviews/Hightower2019" image="https://p.vitalmtb.com/photos/products/23470/photos/36439/s1600_Hightower_Carbon_C_S_Mustard_and_Slate_Blue.jpg?1531954283" title="HighTower 2019" description="Review of the HighTower. Is it really the one Quiver Bike?"/>
                 <Card link="/BikeReviews/Spark2018" image="https://p.vitalmtb.com/photos/products/22919/photos/34737/s1600_Spark_950.jpg?1525456068" title="Spark 2018" description="Review of the Scott Spark. XC performance and Trail Comfort?"/>

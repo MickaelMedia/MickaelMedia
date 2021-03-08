@@ -17,6 +17,10 @@ article{
   border-radius: 8px;
 }
 
+article a{
+  color: green;
+}
+
 article p, h2{
   padding: 8px 8px;
 }

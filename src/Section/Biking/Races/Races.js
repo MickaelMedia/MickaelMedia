@@ -8,9 +8,9 @@ function Races() {
             <article>
                 <h2>New Races</h2>
                 <p>I am not going to make a link towards a new race for the moment</p>
-                <p>My last race experience was in 2020 for the Wildside</p>
             </article>
             <article>
+                <p>My last race experience was in 2020 for the Wildside. It's been awhile but I still think I can offer a few tips.</p>
                 <p>Tips for racing:</p>
                 <b>#1 Pre-day track recon</b>
                 <p>Most enduro races have a pre-race recon thats usually done 1-2 days before the race. Honestly this might be the most important thing to do. I Highly suggest you check out the tracks and search for the race lines that are faster.</p>
