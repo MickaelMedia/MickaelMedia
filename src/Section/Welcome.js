@@ -48,7 +48,6 @@ function Welcome() {
                 <Card link="/BikeReviews/Hightower2019" image="https://p.vitalmtb.com/photos/products/23470/photos/36439/s1600_Hightower_Carbon_C_S_Mustard_and_Slate_Blue.jpg?1531954283" title="HighTower 2019" description="Review of the HighTower. Is it really the one Quiver Bike?"/>
                 <Card link="/BikeReviews/Spark2018" image="https://p.vitalmtb.com/photos/products/22919/photos/34737/s1600_Spark_950.jpg?1525456068" title="Spark 2018" description="Review of the Scott Spark. XC performance and Trail Comfort?"/>
                 <Card image={Trail1} description="If you got time to bike In Oka Click Here" link="/TravelTrips/Oka" title="What to do In Oka"/>
-                <Card image="https://s14761.pcdn.co/wp-content/uploads/2020/01/END_041_Winner_BiT-1140x760.jpg" title="New Bike" description="TIME TO FLY ON THE NEW ENDURO BBY"/>
             </div>
         </div>
     )

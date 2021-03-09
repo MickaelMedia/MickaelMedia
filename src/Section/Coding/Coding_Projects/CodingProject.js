@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 function CodingProject() {
     return (
         <div className="coding__project">
-            <Item backgroundImg="https://base.imgix.net/files/base/ebm/industryweek/image/2019/03/industryweek_34488_hacker_blue_light.png?auto=format&fit=crop&h=432&w=768"/>
+            <Item backgroundImg="https://base.imgix.net/files/base/ebm/industryweek/image/2019/03/industryweek_34488_hacker_blue_light.png?auto=format&fit=crop&h=432&w=768" desc="Scroll Down to check out what I am having fun coding right now" title="SHHH, TOP SECRET PROJECTS"/>
             <article>
                 <p>In this section right here I am gonna be talking about my projects and also showing how I code my specific projects</p>
                 <a href="https://gifttry-89494.web.app">https://gifttry-89494.web.app</a> an exemple of one of my projects. If you want to check the GitHub repository its <a href="https://github.com/MickaelMedia/giftList">here</a>
@@ -23,6 +23,7 @@ function CodingProject() {
                         <h2>Deep Dive</h2>
                         <p>Now that I put my gift list online and have it on my github account I can talk about it more in depth.</p>
                         <p>If you look at the file you'll realise that the giftlist is 3 parts. The Header, The gift area and finally the cards containing the gifts. Now the 2 latter are easy to program because they dont really need logic. Its more HTML. The gifts are the one who need to be well programed. I kinda have to give them a meaning so that my categories in the gift area can parse their value and return the appropriate gifts.</p>
+                        <p>Now I have one bug/Side effect. If you keep the category at all it displays all the items with even space in between them. Now change it to MTB or Fashion. The items are spaced unevenly. The reason this happens is because all of the items become divs. For some unknown reason divs take 0px but when stacked together they take a bit of space and make the spacing between each item uneven. How am I going to fix that, I dunno LMAO</p>
                     </article>
                 </Route>
             </Switch>

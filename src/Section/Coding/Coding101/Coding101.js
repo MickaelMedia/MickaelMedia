@@ -5,7 +5,7 @@ import Item from "../../../Components/Item/Item";
 function Coding101() {
     return (
         <div>
-        <Item backgroundImg="https://i.cbc.ca/1.3241386.1443093888!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/classroom.jpg"/>
+        <Item backgroundImg="https://i.cbc.ca/1.3241386.1443093888!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/classroom.jpg" title="How to get into Coding" desc="Coding is really easy, All you need to do is give it a shot"/>
         <article>
             <h2>Welcome to Coding 101</h2>
             <p>In this section we are gonna talk about how I got into coding and everything I learned so you can learn as well</p>
