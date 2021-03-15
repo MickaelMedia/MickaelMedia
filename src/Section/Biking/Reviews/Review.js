@@ -12,6 +12,11 @@ function Review() {
     return (
         <div className="review">
             <Item backgroundImg="https://s14761.pcdn.co/wp-content/uploads/2020/09/Propain-spindrift-cf-2021-enduro-test-review36-810x551.jpg" title="Welcome to the review"/>
+
+            <article>
+                <p>Sit back and relax, click on a few cards and you can have fun looking at the reviews</p>
+            </article>
+            
             <h2>Latest Reviews</h2>
             <div className="review__card__space">
                 <Card title="Aggressor vs Forekaster" description="coming soon" image="https://images-na.ssl-images-amazon.com/images/I/619CAxZA8nL._AC_SL1000_.jpg"/>
@@ -29,9 +34,6 @@ function Review() {
                 </Route>
             </Switch>
 
-            <article>
-                <p>Sit back and relax, click on a few cards and you can have fun looking at the reviews</p>
-            </article>
         </div>
     )
 }

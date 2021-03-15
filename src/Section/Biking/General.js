@@ -7,7 +7,7 @@ import Card from "../../Components/Card/Card";
 function General() {
     return (
         <div className="general">
-            <Item title="SKRRT" backgroundImg="https://instagram.fymq1-1.fna.fbcdn.net/v/t51.2885-15/e35/82391294_297782731395862_7866297689698578286_n.jpg?_nc_ht=instagram.fymq1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=fAaT3DPOh80AX-Y6EFz&tp=1&oh=e3368344976103d4b9a95ddd183a5fc6&oe=604AB9BD"/>
+            <Item title="SKRRT" backgroundImg="https://images.unsplash.com/photo-1568226292321-dd67ff8b3b2b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnRhaW4lMjB0cmFpbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"/>
             <iframe title="YoutubeVid" className="general__iframe" src="https://www.youtube.com/embed/GeV0tS8wiyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
             <div className="general__intro"></div>
             <article>
