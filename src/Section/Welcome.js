@@ -54,7 +54,6 @@ function Welcome() {
             <h2 className="meh">Coming Soon</h2>
             <div className="new">
             <Card title="Aggressor vs Forekaster" description="coming soon" image="https://images-na.ssl-images-amazon.com/images/I/619CAxZA8nL._AC_SL1000_.jpg"/>
-            <Card title="Fox 36 vs Fox 32" description="coming soon" image="http://cdn.shopify.com/s/files/1/0349/7357/files/Fox36ForkFactoryandPerformanceSeries.jpg?v=1495824687"/>
             <Card title="Prerequisite" description="Let's find out what you need installed to code"/>
             <Card title="HTML" description="How to make the skeleton of your page and also some content"/>
             <Card title="CSS" description="How to stylize your content"/>
