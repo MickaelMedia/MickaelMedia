@@ -13,6 +13,7 @@ function AboutMe() {
             </article>
             <article>
                 <h2>Dev Notes</h2>
+                <p>2021-04-19: Added Race for WIldside, and also some comments in my codes to help understand it.</p>
                 <p>2021-03-14: Changed the background on Bike/General because instagram moved the url around (dick move instagram).Adding some content on the coding part of the website, gonna start nursing part at the end of this month</p>
                 <p>2021-03-09: I took out the new bike thing.</p>
                 <p>2021-03-08: Redid my titles so they pop out more from the background. Got inspired from Mahalo My Dude but I added text shadow </p>

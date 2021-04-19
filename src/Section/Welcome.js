@@ -6,7 +6,9 @@ import Card from "../Components/Card/Card"
 import "./Welcome.css";
 import Trail1 from "./Travel/ToDo/Oka/Oka_Ressource/20200721_091449.jpg"
 
-//Going to have to work on some return cards to amke the page look simpler, max 10 cards per page man
+//So this is the page I used as a template. and I will talk about the cards and the items.
+// Items allow me to do that first part of the page that appears and indicate the the title and subject of the page. Item needs a title, an image for the background and description for the subtitle and finally a summary for the long text that you can go more into deatail if you want. I also added a variable that allows to have the text one side or the other just to make it more diverse if i bombard my page with items.
+// cards are a feature to allow to present an image and title towards another article. the only thing that cards require are title, descritpion for when you hover on it and finally a picture to illustrate it.  
 
 function Welcome() {
     return (

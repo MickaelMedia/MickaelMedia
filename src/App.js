@@ -1,5 +1,6 @@
 import './App.css';
 
+//All the sections I need to animate the first page that goes into the other pages
 import Navbar from "./Components/NavBar/Navbar";
 import Navitem from "./Components/NavBar/Navitem"
 import Dropdown from "./Components/NavBar/Dropdown";
@@ -25,6 +26,7 @@ function App() {
   return (
     <div className="App">
       <Router>
+        {/* So the way navbar works is it takes a few children, and thos childrens have children that get turned with a usestate from on to off. If you want to understand more about it go into the components section. and the hierierchy goes Navbar ==> Navitem ==> DropDown ==> DropDownItem*/}
         <Navbar>
               <Link to="/"><img src={Logo} alt="MT Logo"/></Link>
               <div>
