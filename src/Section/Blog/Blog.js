@@ -7,10 +7,12 @@ function Blog() {
         <div>
             <div className="blog">
                 <article>
+                    <h2>April 2021</h2>
+                    <p>Honestly, I am just going to keep it short this time. I am tired of school all I want to do is just start my job at the hospital and chill. But I know deep inside of me that now is not the time to chill. I am still young, and I can still keep pushing. I settled on just doing enough to feel like I am still productive, but not enough to want to absolutely want to not give a god damn shit about life.  So yeah, I am having a lot of fun right now xD.</p>
                     <h2>March 2021</h2>
                     <p>So, this month I had a bit of an unprecedented month. Starting to help out at the hospital again so I took 2 days of my job. School is doing okay, but I need to put in more effort, I let go for like one week and now I feel like I am absolutely lost.</p>
                     <p>On the upside I finally started getting my bike parts for this season. Gonna go through with turning my bike into a mini-enduro rig. Got most of the parts that I need, now I`ll just play around with the stuff that I have. And keep ordering parts until July. Slowly but surely, I can build myself a cool rig. I plan on buying a gravel bike later too so that is going to be fun.</p>
-                    <p>Finally, I do regret spending lest time talking with my family, but when I get my final dose for the vaccine I`ll start trying to talk with them a lot. </p>
+                    <p>Finally, I do regret spending less time talking with my family, but when I get my final dose for the vaccine I`ll start trying to talk with them a lot. </p>
                     <h2>February 2021</h2>
                     <p>School was super easy this month. I cannot really put my finger on it, but I think universities made the curriculum easier to compensate because of reduced academic support. Last year, we could have gone to the library, used all the campus labs. This year all we can do is use our computers and the power of the internet. I was able to work a bit on my website and implement things like the automatic header close function and start adding new content. I got a 360 down on my snowboard, I WAS SUPER STOKED. I think I can start going for bigger stuff on my snowboard. Unfortunately, snow is starting to melt to I do not have a lot of time. </p>
                     <h2>January 2021</h2>

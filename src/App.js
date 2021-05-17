@@ -46,7 +46,7 @@ function App() {
                   <Dropdown first="Articles" firstLink="/NursingArticles" second="Nursing 101" secondLink="/Nursing101" third="Vulgarisation" thirdLink="/NursingVulg"></Dropdown>
                 </Navitem>
 
-                <Navitem icon="Travel ✈">
+                <Navitem icon="Miscellaneous">
                   <Dropdown first="Cities" firstLink="/TravelCities" second="Things To Do" secondLink="/TravelTrips"></Dropdown>
                 </Navitem>
               </div>

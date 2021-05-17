@@ -13,7 +13,7 @@ function ToDo() {
                     <Item backgroundImg="https://blog.klaxoon.com/wp-content/uploads/2020/06/template-vignette-TO-DO-LIST-1200x900.png" />
                         <h2 className="meh">New Stuff</h2>
                         <div className="new">
-                            <Card image={Trail1} description="If you got time to bike In Oka Click Here" link="/TravelTrips/Oka" title="What to do In Oka"/>
+                            <Card image={Trail1} description="If you got time to bike In Oka Click Here" link="/TravelTrips/Oka" title="Biking In Oka"/>
                         </div>
                 </Route>
 
