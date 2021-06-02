@@ -13,6 +13,8 @@ function AboutMe() {
             </article>
             <article>
                 <h2>Dev Notes</h2>
+                <p>2021-06-02: I WAS FINALLY ABLE TO FIX MY RELOADNIG PROBLEM FOR CHRIST SAKES. Just had to change browserRouter to HashRouter. I have no idea how it fixed my problem but it works so thanks internet.</p>
+                <p>2021-05-27: Added Nursing Tab, going to add a french toggler soon.</p>
                 <p>2021-05-17: Added April to my Blog, took a small hiatus but I am back bby.</p>
                 <p>2021-04-19: Added Race for WIldside, and also some comments in my codes to help understand it.</p>
                 <p>2021-03-14: Changed the background on Bike/General because instagram moved the url around (dick move instagram).Adding some content on the coding part of the website, gonna start nursing part at the end of this month</p>

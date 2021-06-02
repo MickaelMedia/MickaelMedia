@@ -17,7 +17,7 @@ import Coding101 from "./Section/Coding/Coding101/Coding101";
 import ToDo from "./Section/Travel/ToDo/ToDo";
 import Articles from "./Section/Nursing/Articles";
 
-import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch, Link, Redirect } from 'react-router-dom';
 
 import Logo from "./Ressource/MMW.logo.png";
 
@@ -82,6 +82,7 @@ function App() {
           <Route path="/TravelCities"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
 
           <Route path="/TravelTrips"><ToDo /></Route>
+          <Redirect to="/" />
         </Switch>
 
         <Footer />
