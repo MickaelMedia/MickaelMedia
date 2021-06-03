@@ -7,6 +7,8 @@ function Blog() {
         <div>
             <div className="blog">
                 <article>
+                    <h2>May 2021</h2>
+                    <p>I think this month was the month I went most fuck it in my life. I was tired physically and mentally and with my funds coming a bit short I kind of felt a bit stressed. Its not that I couldn`t pay my obligations like rent and etc…  There is also the fact that most of my money is in stocks right now sooo I am really trying not to withdraw my money just to feel better about my bank account number. It`s just annoying to have a sub 2K bank account when you dream about a 6K bike. On the upside I am finally starting at the hospital, and I am psyched to get started. I am just going to have to tell my parents about my college.</p>
                     <h2>April 2021</h2>
                     <p>Honestly, I am just going to keep it short this time. I am tired of school all I want to do is just start my job at the hospital and chill. But I know deep inside of me that now is not the time to chill. I am still young, and I can still keep pushing. I settled on just doing enough to feel like I am still productive, but not enough to want to absolutely want to not give a god damn shit about life.  So yeah, I am having a lot of fun right now xD.</p>
                     <h2>March 2021</h2>

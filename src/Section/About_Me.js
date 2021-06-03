@@ -13,6 +13,7 @@ function AboutMe() {
             </article>
             <article>
                 <h2>Dev Notes</h2>
+                <p>2021-06-03: Added may 2021 section in the blog</p>
                 <p>2021-06-02: I WAS FINALLY ABLE TO FIX MY RELOADNIG PROBLEM FOR CHRIST SAKES. Just had to change browserRouter to HashRouter. I have no idea how it fixed my problem but it works so thanks internet.</p>
                 <p>2021-05-27: Added Nursing Tab, going to add a french toggler soon.</p>
                 <p>2021-05-17: Added April to my Blog, took a small hiatus but I am back bby.</p>
