@@ -13,7 +13,9 @@ function AboutMe() {
             </article>
             <article>
                 <h2>Dev Notes</h2>
-                <p>2021-06-03: Added may 2021 section in the blog</p>
+                <p>2021-06-12: finished Prerequisite in my coding page.</p>
+                <p>2021-06-09: So I just added a translator switch in my article section. I am only going to keep it in that section because I don't want to translate my whole website, I am only going to keep it in there.</p>
+                <p>2021-06-03: Added may 2021 section in the blog, just realized that using HashRouter has killed my sections in the biking part, going to doublecheck that</p>
                 <p>2021-06-02: I WAS FINALLY ABLE TO FIX MY RELOADNIG PROBLEM FOR CHRIST SAKES. Just had to change browserRouter to HashRouter. I have no idea how it fixed my problem but it works so thanks internet.</p>
                 <p>2021-05-27: Added Nursing Tab, going to add a french toggler soon.</p>
                 <p>2021-05-17: Added April to my Blog, took a small hiatus but I am back bby.</p>

@@ -7,16 +7,6 @@ function HighTower2019() {
             <h1>All Mountain Bike?</h1>
             <h3>The one quiver bike?</h3>
             <br/>
-            <h3>Summary</h3>
-            <ul>
-                <li><a href="#Presentation">Presentation</a></li>
-                <li><a href="#Spec">Spec</a></li>
-                <li><a href="#Climbing">Climbing</a></li>
-                <li><a href="#Descending">Descending</a></li>
-                <li><a href="#Overall">Overall</a></li>
-                <li><a href="#Strengths">Strengths and Weaknesses</a></li>
-            </ul>
-            <br/>
             <h3 id="Presentation">Presentation</h3>
             <p>The 2019 HighTower from Santa Cruz is an all mountain bike. Supported with 140mm of rear travel and 150mm of front travel the bikes objectifs is to be ridden anywhere. Soft packed trails, Check; Hard rowdy trails, Check. The HighTower Boast 67° HTA, 435mm chainstay and a seat tube of 74.3°. These numbers are reasonable and should allow you to ride the bike park and the sketchy trails in your neighborhood</p>
             <br/>

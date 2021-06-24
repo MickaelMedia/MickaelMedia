@@ -1,11 +1,16 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 
 import "./CodingProject.css";
 import Item from "../../../Components/Item/Item"
-import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import Card from "../../../Components/Card/Card";
 
 function CodingProject() {
+    const [secret, setSecret] = useState();
+    const bruh= () =>{
+        setSecret('bruh');
+    }
+
     return (
         <div className="coding__project">
             <Item backgroundImg="https://base.imgix.net/files/base/ebm/industryweek/image/2019/03/industryweek_34488_hacker_blue_light.png?auto=format&fit=crop&h=432&w=768" desc="Scroll Down to check out what I am having fun coding right now" title="SHHH, TOP SECRET PROJECTS"/>
@@ -14,6 +19,7 @@ function CodingProject() {
                 <p>In this section right here I am gonna be talking about my projects and also showing how I code my specific projects</p>
                 <a href="https://gifttry-89494.web.app">https://gifttry-89494.web.app</a> an exemple of one of my projects. If you want to check the GitHub repository its <a href="https://github.com/MickaelMedia/giftList">here</a>
                 <p>If you want to read more on what this is and how I programmed it you can <Link to="/CodingProjects/GiftApp">click here</Link></p>
+                <button type='button' onClick={bruh}>secret button don't press </button>{ secret == 'bruh' && <p>you really pressed this and here I thought you didnt need to know my secrets, bruh, just bruh</p>}
             </article>
 
             <div className="new">

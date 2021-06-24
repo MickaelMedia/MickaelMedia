@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import {Link } from 'react-router-dom';
 
 function Spark2018() {
     return (
@@ -6,16 +7,6 @@ function Spark2018() {
         <article className="review__article">
             <h1>XC Perfomance and Trail Comfort</h1>
             <h3>Descend fast and Climb faster?</h3>
-            <br/>
-            <h3>Summary</h3>
-            <ul>
-            <li><a href="#Presentation">Presentation</a></li>
-                <li><a href="#Spec">Spec</a></li>
-                <li><a href="#Climbing">Climbing</a></li>
-                <li><a href="#Descending">Descending</a></li>
-                <li><a href="#Overall">Overall</a></li>
-                <li><a href="#Strengths">Strengths and Weaknesses</a></li>
-            </ul>
             <br/>
             <h3 id="Presentation">Presentation</h3>
             <p>The 2018 Scott Spark is a trail/XC bike that is intended for people who love climbing more than descending. That does not mean that the bike is a slow descender in its category.</p>
