@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MickaelMedia/static/css/main.97605368.chunk.css",
-    "main.js": "/MickaelMedia/static/js/main.f62736c7.chunk.js",
-    "main.js.map": "/MickaelMedia/static/js/main.f62736c7.chunk.js.map",
+    "main.js": "/MickaelMedia/static/js/main.be0c7208.chunk.js",
+    "main.js.map": "/MickaelMedia/static/js/main.be0c7208.chunk.js.map",
     "runtime-main.js": "/MickaelMedia/static/js/runtime-main.deb31fe6.js",
     "runtime-main.js.map": "/MickaelMedia/static/js/runtime-main.deb31fe6.js.map",
     "static/js/2.9c82689a.chunk.js": "/MickaelMedia/static/js/2.9c82689a.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.deb31fe6.js",
     "static/js/2.9c82689a.chunk.js",
     "static/css/main.97605368.chunk.css",
-    "static/js/main.f62736c7.chunk.js"
+    "static/js/main.be0c7208.chunk.js"
   ]
 }
