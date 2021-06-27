@@ -49,6 +49,7 @@ function Welcome() {
             </div>
             <h2 className="meh">What's New</h2>
             <div className="new">
+                <Card title="Prerequisite" description="Let's find out what you need installed to code" link='/CodingTut/Prerequisite' image="http://localhost:3000/MickaelMedia/static/media/Picture1.55a5ddff.jpg"/>
                 <Card title="EWS winner" description="Want to know what I think about the winning EWS bike" image="https://www.bikes.com/sites/default/files/styles/model_image_slider_hires3k/public/models/Web_MY21_Altitude_29_A50_C2_Profile.jpg?itok=5eyYOY2_" link="/BikeReviews/Altitude2021"/>
                 <Card link="/BikeReviews/Hightower2019" image="https://p.vitalmtb.com/photos/products/23470/photos/36439/s1600_Hightower_Carbon_C_S_Mustard_and_Slate_Blue.jpg?1531954283" title="HighTower 2019" description="Review of the HighTower. Is it really the one Quiver Bike?"/>
                 <Card link="/BikeReviews/Spark2018" image="https://p.vitalmtb.com/photos/products/22919/photos/34737/s1600_Spark_950.jpg?1525456068" title="Spark 2018" description="Review of the Scott Spark. XC performance and Trail Comfort?"/>
@@ -57,7 +58,6 @@ function Welcome() {
             <h2 className="meh">Coming Soon</h2>
             <div className="new">
             <Card title="Aggressor vs Forekaster" description="coming soon" image="https://images-na.ssl-images-amazon.com/images/I/619CAxZA8nL._AC_SL1000_.jpg"/>
-            <Card title="Prerequisite" description="Let's find out what you need installed to code"/>
             <Card title="HTML" description="How to make the skeleton of your page and also some content"/>
             <Card title="CSS" description="How to stylize your content"/>
             <Card title="JS" description="How to make your skeleton move"/>

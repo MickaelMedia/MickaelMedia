@@ -16,6 +16,9 @@ function Training2021() {
                 <p>
                     This is it for the first week, come back next month to see how I feel about it and how its going to go. 
                 </p>
+                <p>
+                    Now that I started really getting into the tempo I understand more the exercises that he gave me. Its kinda a full body work out but with a major emphasis on my legs. I usaully fail the sets when I add weight to my lunges with the squat bar. I am happy I can put weight, But I miss my deadlifts. I realized I am a deadlift bro.
+                </p>
             </article>
         </div>
     )

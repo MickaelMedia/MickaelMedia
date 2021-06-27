@@ -13,6 +13,7 @@ function AboutMe() {
             </article>
             <article>
                 <h2>Dev Notes</h2>
+                <p>2021-06-23: Added altitude review on my website</p>
                 <p>2021-06-12: finished Prerequisite in my coding page.</p>
                 <p>2021-06-09: So I just added a translator switch in my article section. I am only going to keep it in that section because I don't want to translate my whole website, I am only going to keep it in there.</p>
                 <p>2021-06-03: Added may 2021 section in the blog, just realized that using HashRouter has killed my sections in the biking part, going to doublecheck that</p>

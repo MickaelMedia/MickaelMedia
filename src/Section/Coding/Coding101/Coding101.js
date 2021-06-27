@@ -19,7 +19,7 @@ function Coding101() {
                     <p>Below you are going to find 4 cards that you can use to learn or doublecheck your coding skills. I suggest you start out with Prerequisite, HTML, CSS then JS. Don't worry coding is super easy ☺</p>
                 </article>
                 <div className="new">
-                    <Card title="Prerequisite" description="Let's find out what you need installed to code" link='/CodingTut/Prerequisite'/>
+                    <Card title="Prerequisite" description="Let's find out what you need installed to code" link='/CodingTut/Prerequisite' image="http://localhost:3000/MickaelMedia/static/media/Picture1.55a5ddff.jpg"/>
                     <Card title="HTML" description="How to make the skeleton of your page and also some content"/>
                     <Card title="CSS" description="How to stylize your content"/>
                     <Card title="JS" description="How to make your skeleton move"/>

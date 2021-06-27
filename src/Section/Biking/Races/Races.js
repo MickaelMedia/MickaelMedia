@@ -12,9 +12,10 @@ function Races() {
                 <Route exact path='/BikeRaces'>
                     <article>
                         <h2>New Races</h2>
-                        <p>My local race series is the <a href="https://www.wildsideenduro.com/">Wildside enduro</a>. First race starts in june so I am gonna get pump ut for it and get ready to do my race. I`ll keep this segement updatet as I get through the races and all the results I get.</p>
+                        <p>My local race series is the <a href="https://www.wildsideenduro.com/">Wildside enduro</a>. My first race starts in July so I am gonna get pumped up for it and get ready to do my race. I`ll keep this segement updated as I get through the races and all the results I get.</p>
                     </article>
                     <article>
+                        <h2>Racing Tips:</h2>
                         <p>My last race experience was in 2020 for the Wildside. It's been awhile but I still think I can offer a few tips.</p>
                         <p>Tips for racing:</p>
                         <b>#1 Pre-day track recon</b>
