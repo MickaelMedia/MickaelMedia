@@ -8,7 +8,9 @@ function General() {
     return (
         <div className="general">
             <Item title="SKRRT" backgroundImg="https://images.unsplash.com/photo-1568226292321-dd67ff8b3b2b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnRhaW4lMjB0cmFpbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"/>
-            <iframe title="YoutubeVid" className="general__iframe" src="https://www.youtube.com/embed/GeV0tS8wiyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+            <div className="videoWrapper">
+                <iframe title="YoutubeVid" className="general__iframe" src="https://www.youtube.com/embed/GeV0tS8wiyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+            </div>
             <div className="general__intro"></div>
             <article>
                 <h2>What is up</h2>

@@ -26,7 +26,7 @@ function Welcome() {
                 descLink="Click Here for more"
                 backgroundImg={Opening}
                 link="/Nursing101"
-                summary="If you are a potentiel Nursing employer, The Sections that might interest you more are Nursing and also my Blog. It's a diary that includes how my months go. The nursing tab is more scientific vulgarisations of new approaches or concepts."
+                summary="If you are a potentiel Nursing employer, The sections that might interest you more are Nursing and also my Blog. It's a diary that includes how my months go. The nursing tab vulgarizes nursing care of patients and also peer reviewed approaches."
                 pair="true"
                 />
                 <Item 

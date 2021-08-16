@@ -15,7 +15,7 @@ function Item({title,backgroundImg,desc,descLink,summary,pair,link}) {
                     <p>{desc}</p>
                     </div>
                     {summary && <div className={ pair? "item__summary2": "item__summary"}>
-                    <p>{summary}</p>
+                    {summary}
                     </div>}
                 </div>
                 <div className="item__lowerThird">

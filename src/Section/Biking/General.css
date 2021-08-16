@@ -1,8 +1,7 @@
 iframe{
-    padding: 20px 12.5%;
-    object-fit: cover;
-    width: 75vw;
-    height: 75vh;
+    padding: 20px 0.5%;
+    min-width: 98vw;
+    min-height: 56.25vh;
 }
 
 .general{

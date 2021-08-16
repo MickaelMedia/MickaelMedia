@@ -13,6 +13,8 @@ function Races() {
                     <article>
                         <h2>New Races</h2>
                         <p>My local race series is the <a href="https://www.wildsideenduro.com/">Wildside enduro</a>. My first race starts in July so I am gonna get pumped up for it and get ready to do my race. I`ll keep this segement updated as I get through the races and all the results I get.</p>
+                        <h2>UPDATE:</h2>
+                        <p>So I didn't et to do any races in 2021 because my work schedule got changed last minute and I was always working on the week-ends that there was a race. Maybe next time I still got time to do the whole racing thing for fun and experience :P .</p>
                     </article>
                     <article>
                         <h2>Racing Tips:</h2>

@@ -19,7 +19,7 @@ function CodingProject() {
                 <p>In this section right here I am gonna be talking about my projects and also showing how I code my specific projects</p>
                 <a href="https://gifttry-89494.web.app">https://gifttry-89494.web.app</a> an exemple of one of my projects. If you want to check the GitHub repository its <a href="https://github.com/MickaelMedia/giftList">here</a>
                 <p>If you want to read more on what this is and how I programmed it you can <Link to="/CodingProjects/GiftApp">click here</Link></p>
-                <button type='button' onClick={bruh}>secret button don't press </button>{ secret == 'bruh' && <p>you really pressed this and here I thought you didnt need to know my secrets, bruh, just bruh</p>}
+                <button type='button' onClick={bruh}>secret button don't press </button>{ secret == 'bruh' && <p>Why do you need to know my secrets</p>}
             </article>
 
             <div className="new">

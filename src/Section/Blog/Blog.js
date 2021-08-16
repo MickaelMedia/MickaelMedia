@@ -7,6 +7,14 @@ function Blog() {
         <div>
             <div className="blog">
                 <article>
+                    <h2>July 2021</h2>
+                    <p>
+                    So, I don’t know how I feel about my unit lol. The team is cool, the patients are well taken of and mostly appropriate for our type of care and I genuinely like working at night. The tempo is a lot slower now since I know how the unit works. I never thought I would be able to make a routine as a nurse, but I can. I try not to follow it, because some people require more care than others, but its so easy. I even decided to read a book atomic habits to learn how not to stick to my bad habits. 
+                    </p>
+                    <h2>June 2021</h2>
+                    <p>
+                    First real month working as a nurse, and it’s been fun. Learning how a unit works, meeting new people and getting orientated on how to work as a team. I do not really have time to get back into my mountain biking habit since I don`t have a car anymore. Told myself I was going to transition to gravel biking to keep my fitness up, but I guess I will just hit up the pool instead since I love swimming. (FIY: I never did hit the pool during June. It was not out of laziness, but mostly because I couldn’t find a public pool that opened when I finished working)
+                    </p>
                     <h2>May 2021</h2>
                     <p>I think this month was the month I went most fuck it in my life. I was tired physically and mentally and with my funds coming a bit short I kind of felt a bit stressed. Its not that I couldn`t pay my obligations like rent and etc…  There is also the fact that most of my money is in stocks right now sooo I am really trying not to withdraw my money just to feel better about my bank account number. It`s just annoying to have a sub 2K bank account when you dream about a 6K bike. On the upside I am finally starting at the hospital, and I am psyched to get started. I am just going to have to tell my parents about my college.</p>
                     <h2>April 2021</h2>

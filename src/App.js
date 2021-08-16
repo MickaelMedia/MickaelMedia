@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       <Router>
-        {/* So the way navbar works is it takes a few children, and thos childrens have children that get turned with a usestate from on to off. If you want to understand more about it go into the components section. and the hierierchy goes Navbar ==> Navitem ==> DropDown ==> DropDownItem*/}
+        {/* So the way navbar works is it takes a few children, and thos childrens have children that get turned with a usestate from on to off. If you want to understand more about it go into the components section. and the hierarchy goes Navbar ==> Navitem ==> DropDown ==> DropDownItem*/}
         <Navbar>
               <Link to="/"><img src={Logo} alt="MT Logo"/></Link>
               <div>
@@ -43,7 +43,7 @@ function App() {
                 </Navitem>
 
                 <Navitem icon="Nursing 💉">
-                  <Dropdown first="Articles" firstLink="/NursingArticles" second="Nursing 101" secondLink="/Nursing101" third="Vulgarisation" thirdLink="/NursingVulg"></Dropdown>
+                  <Dropdown first="Articles" firstLink="/NursingArticles" second="Nursing 101" secondLink="/Nursing101"></Dropdown>
                 </Navitem>
 
                 <Navitem icon="Miscellaneous">
@@ -76,8 +76,6 @@ function App() {
           <Route path="/NursingArticles"><Articles /></Route>
 
           <Route path="/Nursing101"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
-
-          <Route path="/NursingVulg"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
 
           <Route path="/TravelCities"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
 
