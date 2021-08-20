@@ -2,7 +2,9 @@ import React from 'react';
 
 import Item from "../Components/Item/Item";
 import Opening from "../Ressource/Pic1.jpg";
-import Card from "../Components/Card/Card"
+import Jump from "../Ressource/JUMPE.jpg";
+import Swaggles from "../Ressource/Swaggles.jpg";
+import Card from "../Components/Card/Card";
 import "./Welcome.css";
 import Trail1 from "./Travel/ToDo/Oka/Oka_Ressource/20200721_091449.jpg"
 
@@ -17,7 +19,7 @@ function Welcome() {
                 <Item 
                 title="Welcome"
                 desc="This is my web portfolio for nursing ,coding and mountain biking"
-                backgroundImg={Opening}
+                backgroundImg={Swaggles}
                 summary="This website serves 3 purposes. Firstly, It allows me practice coding and setting up React.js . Secondly it allows me to make a visual Portfolio for people who are interested in hiring me. Lastly, It's my own personnal space to talk about the subjects mentioned in the header"
                 />
                 <Item 
@@ -41,7 +43,7 @@ function Welcome() {
                 title="Mountain Biking"
                 desc="one word : SKRRRRRRRRRRRRRRRRRRRRRRRT"
                 descLink="Click Here for more BRUH"
-                backgroundImg={Opening}
+                backgroundImg={Jump}
                 link="/BikeGeneral"
                 summary="I am not the best mountain biker around, But I have fun trying out stuff that people think is insane. I am lot more oriented on speed and composure, but don't worry, I can still whip to have that extra STEEEEEZE #neverenoughsteeze."
                 pair="true"
