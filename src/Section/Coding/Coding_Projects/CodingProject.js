@@ -24,7 +24,7 @@ function CodingProject() {
 
             <div className="new">
             <Card title="My Website" description="How I coded the website that you are using right now"/>
-            <Card title="GiftList" description="Just a giftlist that I made for my family and that you can do for yours"/>
+            <Card title="GiftList" description="Just a giftlist that I made for my family and that you can do for yours" link="/CodingProjects/GiftApp"/>
             <Card title="Community Question" description="Coming Soon, got the logic down but havent made it yet" />
             </div>
 

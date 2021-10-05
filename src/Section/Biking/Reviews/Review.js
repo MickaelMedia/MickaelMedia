@@ -22,7 +22,7 @@ function Review() {
                 
                     <h2>Latest Reviews</h2>
                     <div className="review__card__space">
-                        <Card title="EWS winner" description="Want to know what I think about the winning EWS bike" image="https://www.bikes.com/sites/default/files/styles/model_image_slider_hires3k/public/models/Web_MY21_Altitude_29_A50_C2_Profile.jpg?itok=5eyYOY2_" link="/BikeReviews/Altitude2021"/>
+                        <Card title="EWS winner" description="Want to know what I think about the winning EWS bike" image="https://s14761.pcdn.co/wp-content/uploads/2020/09/Rocky-Mountain-Altitude-2021-Test-Review-Enduro-25.jpg" link="/BikeReviews/Altitude2021"/>
                         <Card title="One Up Composite Pedal" description="So you wanna get composite pedals" image=""/>
                         <Card title="Aggressor vs Forekaster" description="coming soon" image="https://images-na.ssl-images-amazon.com/images/I/619CAxZA8nL._AC_SL1000_.jpg"/>
                         <Card link="/BikeReviews/Hightower2019" image="https://p.vitalmtb.com/photos/products/23470/photos/36439/s1600_Hightower_Carbon_C_S_Mustard_and_Slate_Blue.jpg?1531954283" title="HighTower 2019" description="Review of the HighTower. Is it really the one Quiver Bike?"/>

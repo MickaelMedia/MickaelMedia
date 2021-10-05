@@ -7,9 +7,13 @@ function Blog() {
         <div>
             <div className="blog">
                 <article>
+                    <h2>September 2021</h2>
+                    <p>I guess covid never really left 😕. Part of the oncology unit is becoming a covid unit again because we have negative pressure rooms. I am seeing an annoying trend unfortunately. Most patients are unvaccinated and around their thirties. At least they are understanding and collaborating, so I don’t need to work with some anti-vaxxer attitude. I realized most of them are very attentive to what I have to say, mainly because I answer their question and explain how most patients with Covid are treated on our unit. Anyways, I am having fun but staying focused for school is harder than I thought because I must study even if I am feeling tired. </p>
+                    <h2>August 2021</h2>
+                    <p>The infamous back to school season 😑. Honestly Its going well for the moment, I had time to check the school cursus and It is pretty good for my situation. A few team projects, a few exams solo and a lot of homework to do. The good thing is I can do everything at my leisure, the bad thing is if I fall behind, I am going to be in a really bad situation. I am continuing my job as a nursing intern in oncology by working 20h per 14days. </p>
                     <h2>July 2021</h2>
                     <p>
-                    So, I don’t know how I feel about my unit lol. The team is cool, the patients are well taken of and mostly appropriate for our type of care and I genuinely like working at night. The tempo is a lot slower now since I know how the unit works. I never thought I would be able to make a routine as a nurse, but I can. I try not to follow it, because some people require more care than others, but its so easy. I even decided to read a book atomic habits to learn how not to stick to my bad habits. 
+                    So, I don’t know how I feel about my unit lol. The team is cool, the patients are well taken of and mostly appropriate for our type of care and I genuinely like working at night. The tempo is a lot slower now since I know how the unit works. There is also the fact that I have the same 11 patients for 10 days straight. I make a work plan the first day and I can keep it for the next 11 days and tweak some stuff. If a patient gets discharged, I just add a new worksheet. I never thought I would be able to make a routine as a nurse, but I can. I try not to follow it, because some people require more care than others, but its so easy. I even decided to read a book atomic habits to learn how not to stick to my bad habits. 
                     </p>
                     <h2>June 2021</h2>
                     <p>

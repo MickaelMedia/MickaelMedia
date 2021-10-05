@@ -20,9 +20,9 @@ function Coding101() {
                 </article>
                 <div className="new">
                     <Card title="Prerequisite" description="Let's find out what you need installed to code" link='/CodingTut/Prerequisite' image="http://localhost:3000/MickaelMedia/static/media/Picture1.55a5ddff.jpg"/>
-                    <Card title="HTML" description="How to make the skeleton of your page and also some content"/>
-                    <Card title="CSS" description="How to stylize your content"/>
-                    <Card title="JS" description="How to make your skeleton move"/>
+                    <Card title="HTML" description="How to make the skeleton of your page and also some content" image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"/>
+            <Card title="CSS" description="How to stylize your content" image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png"/>
+            <Card title="JS" description="How to make your skeleton move" image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/131px-Unofficial_JavaScript_logo_2.svg.png"/>
                 </div>
             </Route>
             <Route path ='/CodingTut/Prerequisite'>

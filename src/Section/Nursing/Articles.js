@@ -24,7 +24,7 @@ function Articles() {
 
     return (
         <div>
-                 <Item title="Articles" desc="just some things that I think are fun to read" backgroundImg="https://www.360webdesigns.com/wp-content/uploads/2019/04/Insert-Image-Here.png"/>
+                 <Item title="Articles" desc="just some things that I think are fun to read" backgroundImg="https://www.cgfns.org/wp-content/uploads/2019/05/registered-nurse-credentials-evaluation.png"/>
                 <div className='toggle__switch'>
                     <label class="switch">
                         <input type="checkbox" onChange={toggleLanguage}/>
@@ -40,14 +40,12 @@ function Articles() {
                                 <p>The first article that I am going to have here is an article on whether running or rowing as a pre-gym exercise is better. It is going to be the first article and also a testing parameter on whether or not my switch works well</p>
                             </article> :
                             <article>
-                            <p>Cette section me permet de discuter et parler des articles que j'ai trouvé intéressant.</p>
+                                <p>Cette section me permet de discuter et parler des articles que j'ai trouvé intéressant.</p>
                             </article>}
                             <div className='new'>
-                                <Card title='Running or Rowing' description='just a vulgarisation of an article that compared VO2 max for those execrise' link='/NursingArticles/RunningRowing'/>
-                            </div>
-                            <h2 className="meh">Coming Soon</h2>
-                            <div className="new">
-                                    <Card title="Approach for Diabetes" description="coming soon" image="https://images-na.ssl-images-amazon.comimages/I/619CAxZA8nL._AC_SL1000_.jpg"/>
+                                <Card title={language === 'english' ? 'Running or Rowing' : 'Courir ou rammer'} description={language === 'english' ? 'just a vulgarisation of an article that compared VO2 max for those execrise': `quelle exercice permet d'avoir un meilleur cardio`} link='/NursingArticles/RunningRowing' image="https://thewiredrunner.com/wp-content/uploads/2019/08/471388_-RowXRun_765x400_081619.png"/>
+                                <Card title='Therapeutic Phlobotomy' description='What are the recommandations to give blood and who should give blood' link='/NursingArticles/RunningRowing' image="http://devtd.marscs.com/wp-content/uploads/2020/10/phlebotomy-technician-school.jpg"/>
+                                <Card title='Shame and Sickness' description='Is it normal to feel shame when we are sick?' link='/NursingArticles/RunningRowing' image="https://miro.medium.com/max/600/1*K5FwMv-cZBC2-QciRCRe7A.jpeg"/>
                             </div>
                         </Route>
                         <Route path='/NursingArticles/RunningRowing'>{ language === 'english' ? <RunningRowing /> : <RunningRowingFR/>}</Route>
