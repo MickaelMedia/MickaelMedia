@@ -7,6 +7,10 @@ function Blog() {
         <div>
             <div className="blog">
                 <article>
+                    <h2>November 2021</h2>
+                    <p>Meh, School fucked me up with a bad exam, still passed the class, but DAMN, I got fucked xD. Maybe I need to study a bit more next semester.</p>
+                    <h2>October 2021</h2>
+                    <p>Applied to a different hospital for the beginning of next summer. Got a response back from Quebec city which is cool. My priority right now is just investing, school and sports. I kind of left coding and writing on the side because things are hectic at school right now. But after my exam on the 11th, I should be able to get some more free time again. Maybe ill get back to coding, and writing.  </p>
                     <h2>September 2021</h2>
                     <p>I guess covid never really left 😕. Part of the oncology unit is becoming a covid unit again because we have negative pressure rooms. I am seeing an annoying trend unfortunately. Most patients are unvaccinated and around their thirties. At least they are understanding and collaborating, so I don’t need to work with some anti-vaxxer attitude. I realized most of them are very attentive to what I have to say, mainly because I answer their question and explain how most patients with Covid are treated on our unit. Anyways, I am having fun but staying focused for school is harder than I thought because I must study even if I am feeling tired. </p>
                     <h2>August 2021</h2>

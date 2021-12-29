@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 
 function Item({title,backgroundImg,desc,descLink,summary,pair,link}) {
     return (
-        <div className="item" style={{
+        <div className={ pair? "item2": "item"} style={{
             backgroundImage: `url(${backgroundImg})`
         }}>
             <div className="item__container">

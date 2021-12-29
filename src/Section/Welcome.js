@@ -2,6 +2,7 @@ import React from 'react';
 
 import Item from "../Components/Item/Item";
 import Opening from "../Ressource/Pic1.jpg";
+import Nurse from "../Ressource/nurse.jpg";
 import Jump from "../Ressource/JUMPE.jpg";
 import Swaggles from "../Ressource/Swaggles.jpg";
 import Card from "../Components/Card/Card";
@@ -26,7 +27,7 @@ function Welcome() {
                 title="Nursing"
                 desc="Science based Nursing"
                 descLink="Click Here for more"
-                backgroundImg={Opening}
+                backgroundImg={Nurse}
                 link="/Nursing101"
                 summary="If you are a potentiel Nursing employer, The sections that might interest you more are Nursing and also my Blog. It's a diary that includes how my months go. The nursing tab vulgarizes nursing care of patients and also peer reviewed approaches."
                 pair="true"

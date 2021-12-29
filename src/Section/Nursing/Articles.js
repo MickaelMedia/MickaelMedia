@@ -44,8 +44,8 @@ function Articles() {
                             </article>}
                             <div className='new'>
                                 <Card title={language === 'english' ? 'Running or Rowing' : 'Courir ou rammer'} description={language === 'english' ? 'just a vulgarisation of an article that compared VO2 max for those execrise': `quelle exercice permet d'avoir un meilleur cardio`} link='/NursingArticles/RunningRowing' image="https://thewiredrunner.com/wp-content/uploads/2019/08/471388_-RowXRun_765x400_081619.png"/>
-                                <Card title='Therapeutic Phlobotomy' description='What are the recommandations to give blood and who should give blood' link='/NursingArticles/RunningRowing' image="http://devtd.marscs.com/wp-content/uploads/2020/10/phlebotomy-technician-school.jpg"/>
-                                <Card title='Shame and Sickness' description='Is it normal to feel shame when we are sick?' link='/NursingArticles/RunningRowing' image="https://miro.medium.com/max/600/1*K5FwMv-cZBC2-QciRCRe7A.jpeg"/>
+                                <Card title='Therapeutic Phlobotomy' description='What are the recommandations to give blood and who should give blood' URL="https://mickaelthebaud.medium.com/therapeutic-phlebotomy-f7991af95663" image="http://devtd.marscs.com/wp-content/uploads/2020/10/phlebotomy-technician-school.jpg"/>
+                                <Card title='Shame and Sickness' description='Is it normal to feel shame when we are sick?' URL='https://mickaelthebaud.medium.com/the-guilt-of-being-sick-8975b0ea910b' image="https://miro.medium.com/max/600/1*K5FwMv-cZBC2-QciRCRe7A.jpeg"/>
                             </div>
                         </Route>
                         <Route path='/NursingArticles/RunningRowing'>{ language === 'english' ? <RunningRowing /> : <RunningRowingFR/>}</Route>
