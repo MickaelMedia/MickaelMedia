@@ -1,22 +1,17 @@
 {
   "files": {
-    "main.css": "/MickaelMedia/static/css/main.4a8d7ca5.chunk.css",
-    "main.js": "/MickaelMedia/static/js/main.d7b52b00.chunk.js",
-    "main.js.map": "/MickaelMedia/static/js/main.d7b52b00.chunk.js.map",
-    "runtime-main.js": "/MickaelMedia/static/js/runtime-main.86165e12.js",
-    "runtime-main.js.map": "/MickaelMedia/static/js/runtime-main.86165e12.js.map",
-    "static/js/2.93249439.chunk.js": "/MickaelMedia/static/js/2.93249439.chunk.js",
-    "static/js/2.93249439.chunk.js.map": "/MickaelMedia/static/js/2.93249439.chunk.js.map",
-    "static/js/3.3c3d34fc.chunk.js": "/MickaelMedia/static/js/3.3c3d34fc.chunk.js",
-    "static/js/3.3c3d34fc.chunk.js.map": "/MickaelMedia/static/js/3.3c3d34fc.chunk.js.map",
+    "main.css": "/MickaelMedia/static/css/main.92bc7940.chunk.css",
+    "main.js": "/MickaelMedia/static/js/main.70df4b89.chunk.js",
+    "main.js.map": "/MickaelMedia/static/js/main.70df4b89.chunk.js.map",
+    "runtime-main.js": "/MickaelMedia/static/js/runtime-main.deb31fe6.js",
+    "runtime-main.js.map": "/MickaelMedia/static/js/runtime-main.deb31fe6.js.map",
+    "static/js/2.92b5150e.chunk.js": "/MickaelMedia/static/js/2.92b5150e.chunk.js",
+    "static/js/2.92b5150e.chunk.js.map": "/MickaelMedia/static/js/2.92b5150e.chunk.js.map",
+    "static/js/3.70300224.chunk.js": "/MickaelMedia/static/js/3.70300224.chunk.js",
+    "static/js/3.70300224.chunk.js.map": "/MickaelMedia/static/js/3.70300224.chunk.js.map",
     "index.html": "/MickaelMedia/index.html",
-    "static/css/main.4a8d7ca5.chunk.css.map": "/MickaelMedia/static/css/main.4a8d7ca5.chunk.css.map",
-    "static/js/2.93249439.chunk.js.LICENSE.txt": "/MickaelMedia/static/js/2.93249439.chunk.js.LICENSE.txt",
-    "static/media/20200721_084944.6110e9c5.jpg": "/MickaelMedia/static/media/20200721_084944.6110e9c5.jpg",
-    "static/media/20200721_090734.a23dc40e.jpg": "/MickaelMedia/static/media/20200721_090734.a23dc40e.jpg",
-    "static/media/20200721_090954.0c5ece70.jpg": "/MickaelMedia/static/media/20200721_090954.0c5ece70.jpg",
-    "static/media/20200721_091449.20dd1b1b.jpg": "/MickaelMedia/static/media/20200721_091449.20dd1b1b.jpg",
-    "static/media/20200721_091508.89dc7572.jpg": "/MickaelMedia/static/media/20200721_091508.89dc7572.jpg",
+    "static/css/main.92bc7940.chunk.css.map": "/MickaelMedia/static/css/main.92bc7940.chunk.css.map",
+    "static/js/2.92b5150e.chunk.js.LICENSE.txt": "/MickaelMedia/static/js/2.92b5150e.chunk.js.LICENSE.txt",
     "static/media/JUMPE.5e72c3a8.jpg": "/MickaelMedia/static/media/JUMPE.5e72c3a8.jpg",
     "static/media/MMW.logo.cb93f793.png": "/MickaelMedia/static/media/MMW.logo.cb93f793.png",
     "static/media/Pic1.5b7107a4.jpg": "/MickaelMedia/static/media/Pic1.5b7107a4.jpg",
@@ -25,9 +20,9 @@
     "static/media/nurse.5d560d2e.jpg": "/MickaelMedia/static/media/nurse.5d560d2e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.86165e12.js",
-    "static/js/2.93249439.chunk.js",
-    "static/css/main.4a8d7ca5.chunk.css",
-    "static/js/main.d7b52b00.chunk.js"
+    "static/js/runtime-main.deb31fe6.js",
+    "static/js/2.92b5150e.chunk.js",
+    "static/css/main.92bc7940.chunk.css",
+    "static/js/main.70df4b89.chunk.js"
   ]
 }
