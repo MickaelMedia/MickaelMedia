@@ -6,6 +6,13 @@ function BlogYear() {
     return (
         <div className="blog">
             <article className="blog__year">
+                <h2>2021</h2>
+                <p><b>So How was 2021 for Me?</b></p>
+                <p>2021 Was a better year with me getting closer to have a stable foundation for my life</p>
+                <p><b>Let's start with the good.</b></p>
+                <p>2021 was the start of my nursing career. I might not be a clinician, but I am working towards getting that title. I am very lucky to have a team that trust me and allows me to have my space to fill my role. I got back into my gym life and I really started getting stronger. I reached my goal for my benchpress, now I just need to get my goal for my squats and my deadlift. But again, I always ask myself if 3x bodywweight for a deadlift is a reasonable goal xD. Got around starting the second part of my programming lessons that are more based on AI intelligence and also Data presentation.</p>
+                <p><b>The bad.</b></p>
+                <p>I feel bad for not doing all the cool things I did last year. This year I was more progressive maybe, because I was working in a covid departement. If someone would have been sick because of me it would really affect me mentally. I didnt really go out with girls this year LOL. Did a whole year without really going out on a date or trying to hit on girl. On a sidenote there is a really cute girl on my unit. </p>
                 <h2>2020</h2>
                 <p><b>So How was 2020 for Me?</b></p>
                 <p>I am not gonna lie, 2020 Was a hell of a year</p>

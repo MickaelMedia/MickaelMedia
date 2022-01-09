@@ -7,8 +7,6 @@ import Jump from "../Ressource/JUMPE.jpg";
 import Swaggles from "../Ressource/Swaggles.jpg";
 import Card from "../Components/Card/Card";
 import "./Welcome.css";
-import Trail1 from "./Travel/ToDo/Oka/Oka_Ressource/20200721_091449.jpg"
-
 //So this is the page I used as a template. and I will talk about the cards and the items.
 // Items allow me to do that first part of the page that appears and indicate the the title and subject of the page. Item needs a title, an image for the background and description for the subtitle and finally a summary for the long text that you can go more into deatail if you want. I also added a variable that allows to have the text one side or the other just to make it more diverse if i bombard my page with items.
 // cards are a feature to allow to present an image and title towards another article. the only thing that cards require are title, descritpion for when you hover on it and finally a picture to illustrate it.  
@@ -56,7 +54,6 @@ function Welcome() {
                 <Card title="EWS winner" description="Want to know what I think about the winning EWS bike" image="https://s14761.pcdn.co/wp-content/uploads/2020/09/Rocky-Mountain-Altitude-2021-Test-Review-Enduro-25.jpg" link="/BikeReviews/Altitude2021"/>
                 <Card link="/BikeReviews/Hightower2019" image="https://p.vitalmtb.com/photos/products/23470/photos/36439/s1600_Hightower_Carbon_C_S_Mustard_and_Slate_Blue.jpg?1531954283" title="HighTower 2019" description="Review of the HighTower. Is it really the one Quiver Bike?"/>
                 <Card link="/BikeReviews/Spark2018" image="https://p.vitalmtb.com/photos/products/22919/photos/34737/s1600_Spark_950.jpg?1525456068" title="Spark 2018" description="Review of the Scott Spark. XC performance and Trail Comfort?"/>
-                <Card image={Trail1} description="If you got time to bike In Oka Click Here" link="/TravelTrips/Oka" title="What to do In Oka"/>
             </div>
             <h2 className="meh">Coming Soon</h2>
             <div className="new">

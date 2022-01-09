@@ -13,6 +13,7 @@ function AboutMe() {
             </article>
             <article>
                 <h2>Dev Notes</h2>
+                <p>2022-01-09: Added in my blogs the sections that were missing. I did 3 months without checking my website LMAO.</p>
                 <p>2021-08-09: I swear I am still working on this, Just I cant seem to fix a few of my bugs. (Imagine me screeching at the screen because of bugs and display problems, I feel like a caveman rn).</p>
                 <p>2021-06-23: Added altitude review on my website</p>
                 <p>2021-06-12: finished Prerequisite in my coding page.</p>

@@ -7,6 +7,8 @@ function Blog() {
         <div>
             <div className="blog">
                 <article>
+                    <h2>December 2021</h2>
+                    <p>The beginning of the month was ok. I do have to admit that I was still shaken by my exam from last month. I was a bit stressed continuing with work and school. School front I had an internship that was moving very fast and 2 medication incidents that caught me off guard. On the work front, Covid patients are steadily coming back into rotation. Then out of nowhere, middle of the month arrives, and we have 22/30 beds with Covid. Another surprise as we could say. But this time around, symptoms were less pronounced. If I had to give a number 3 out of 22 patients were in a rough state with department needing help from breathing therapist. According to my coworkers January is going to be a hell of a month with Christmas and new year eve being the perfect excuse for people to meet up.</p>
                     <h2>November 2021</h2>
                     <p>Meh, School fucked me up with a bad exam, still passed the class, but DAMN, I got fucked xD. Maybe I need to study a bit more next semester.</p>
                     <h2>October 2021</h2>

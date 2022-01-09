@@ -14,7 +14,6 @@ import Review from "./Section/Biking/Reviews/Review";
 import Races from "./Section/Biking/Races/Races";
 import General from "./Section/Biking/General";
 import Coding101 from "./Section/Coding/Coding101/Coding101";
-import ToDo from "./Section/Travel/ToDo/ToDo";
 import Articles from "./Section/Nursing/Articles";
 
 import { HashRouter as Router, Route, Switch, Link, Redirect } from 'react-router-dom';
@@ -45,10 +44,6 @@ function App() {
                 <Navitem icon="Nursing 💉">
                   <Dropdown first="Articles" firstLink="/NursingArticles" second="Nursing 101" secondLink="/Nursing101"></Dropdown>
                 </Navitem>
-
-                <Navitem icon="Miscellaneous">
-                  <Dropdown first="Cities" firstLink="/TravelCities" second="Things To Do" secondLink="/TravelTrips"></Dropdown>
-                </Navitem>
               </div>
         </Navbar>
 
@@ -76,10 +71,6 @@ function App() {
           <Route path="/NursingArticles"><Articles /></Route>
 
           <Route path="/Nursing101"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
-
-          <Route path="/TravelCities"><iframe title="Broken worker for a Borken Link" src="https://giphy.com/embed/XZpjG5s607xDJS1nKy" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stickergiant-sticker-giant-XZpjG5s607xDJS1nKy">via GIPHY</a></p></Route>
-
-          <Route path="/TravelTrips"><ToDo /></Route>
           <Redirect to="/" />
         </Switch>
 
