@@ -13,6 +13,8 @@ function AboutMe() {
             </article>
             <article>
                 <h2>Dev Notes</h2>
+                <p>2022-10-20: its been awhile since I edited the website, and it feels weird changing it now. Feels like I am opening a sealed time capsule and just rediscovering all the things i did. Since I am the one who programmed all of this I understand everything, but still this small monster feels overwhelmed with information</p>
+                <p>2022-09-09: So this is really awkward, I haven't worked on this website in a awhile, so like I feel ashamed, sinc ei told myself i was going to do this more consistently, BUT i do have an excuse, I did SQL and python instead :)</p>
                 <p>2022-01-09: Added in my blogs the sections that were missing. I did 3 months without checking my website LMAO.</p>
                 <p>2021-08-09: I swear I am still working on this, Just I cant seem to fix a few of my bugs. (Imagine me screeching at the screen because of bugs and display problems, I feel like a caveman rn).</p>
                 <p>2021-06-23: Added altitude review on my website</p>
