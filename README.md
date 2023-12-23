@@ -1,6 +1,1 @@
-- 🔭 I’m currently working on React Website for my Portfolio
-- 🌱 I’m currently learning React but gonna go to SQL soon
-- 👯 I’m looking to collaborate on Any project actually
-- 💬 Ask me about Why I try to learn so much
-- 📫 How to reach me: Just INSTA me BRO.
-- ⚡ Fun fact: I am a fan of pizza with pineapple. You do what you want with that lmao
+2024 is gonna be the year I really start programing and getting into stuff
